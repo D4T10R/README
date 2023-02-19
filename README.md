@@ -1,57 +1,29 @@
-- 👨‍💻 I'm PedroDev
-- 🎮 I'm student to gamedev
-- 📠 I'm Back-end | Future: Fullstack
-- ⚡ Bora Programar!
+## Hello! My name is Lucas
 
-<h4 align="center">Linguagens / Tecnologias</h4>
-<p align="center">
-  <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql'/>
-  </a>
-  
-<h5 align="center">Programas</h4>
-<p align="center">
-  <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=vscode,qt,django'/>
-  </a>
-  
+### Main technologies that I study:
+![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux Logo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Elixir Logo](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![RaspberryPI](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![ShellScript Logo](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Perl Logo](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Nginx logo](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PHP logo](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-  
-<h4 align="center">Redes Socias</h4>
+### Currently in love:
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) <h5> And the paradigm of functional programming.</h5>
 
-<p align="center">
-  <a
-href='https://discord.gg/b2sZ4S4zQW'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=discord'
-  </a>
-<!-- Divide the space -->
-  <a
-href='https://twitter.com/PedroLucas_Dev'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=twitter'
-  </a>
-  <a
-href='https://instagram.com/pedrodevprogramming/'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=instagram'
-  </a>
-  <a
-href='https://github.com/pedrogalotti/'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=github'
-  </a>
-</p>
- 
-</p>
-<br><br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=pedrogalotti" />
-</div>
+### My favorite OS:
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 
-<br><br/>
-
-</div>
-
-</div>
+### My github stats:
+<center>
+<table>
+    <tr>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Sigmw&show_icons=true&theme=tokyonight" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigmw&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=pandas-notebook,proconsult-mvc,netflix-data"/></td>
+    </tr>   
+</table>
+</center>  
